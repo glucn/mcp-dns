@@ -2,6 +2,10 @@
 
 A Model Context Protocol (MCP) tool that provides DNS querying capabilities. This tool allows you to perform DNS lookups for various record types through a standardized MCP interface.
 
+<a href="https://glama.ai/mcp/servers/@glucn/mcp-dns">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@glucn/mcp-dns/badge" alt="DNS MCP server" />
+</a>
+
 ## Features
 
 - DNS querying for various record types (A, AAAA, MX, TXT, CNAME, NS, etc.)
