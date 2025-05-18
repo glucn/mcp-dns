@@ -56,3 +56,7 @@ npm run build
 - [@modelcontextprotocol/sdk](https://www.npmjs.com/package/@modelcontextprotocol/sdk) - MCP SDK for server implementation
 - [zod](https://www.npmjs.com/package/zod) - TypeScript-first schema validation
 - TypeScript - For type safety and modern JavaScript features
+
+## Other Links
+
+- Personal Blog: [Building My First MCP Server: A DNS Query Tool](https://glucn.com/posts/2025-05-17-my-first-mcp-server)
