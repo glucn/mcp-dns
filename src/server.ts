@@ -34,7 +34,11 @@ server.tool(
       content: [
         {
           type: "text",
-          text: JSON.stringify(records),
+          text: JSON.stringify({
+            domain: name,
+            type: type,
+            records: records,
+          }),
         },
       ],
     };
